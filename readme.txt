@@ -4,6 +4,10 @@ Unity version: 2021.3.20f1
         
 Used packages:
 * DOTween
+        
+Get started:
+* Open the GameScene under Assets/Scenes
+* Click Play
 
 Core gameplay:
 Player controls a spaceship and has to destroy asteroids and UFO's to try and survive
